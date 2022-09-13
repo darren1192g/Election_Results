@@ -1,0 +1,20 @@
+
+Election Results
+------------------------
+Total Votes: 369,711
+------------------------
+-------------------------
+Winner: Charles Casper Stockham
+Winning Vote Count: 85,213
+Winning Percentage: 23.0%
+-------------------------
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
